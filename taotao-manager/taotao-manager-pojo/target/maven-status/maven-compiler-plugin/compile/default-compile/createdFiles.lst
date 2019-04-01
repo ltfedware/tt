@@ -1,0 +1,11 @@
+com\taotao\manager\model\Item.class
+com\taotao\manager\model\ItemParamItem.class
+com\taotao\manager\model\OrderShipping.class
+com\taotao\manager\model\ItemDesc.class
+com\taotao\manager\model\Order.class
+com\taotao\manager\model\User.class
+com\taotao\manager\model\OrderItem.class
+com\taotao\manager\model\Content.class
+com\taotao\manager\model\ItemCat.class
+com\taotao\manager\model\ContentCategory.class
+com\taotao\manager\model\ItemParam.class

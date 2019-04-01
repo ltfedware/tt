@@ -1,0 +1,5 @@
+com\taotao\manager\service\impl\ItemServiceImpl.class
+com\taotao\manager\service\impl\BaseServiceImpl.class
+com\taotao\manager\service\impl\ContentCategoryServiceImpl.class
+com\taotao\manager\service\impl\UserServiceImpl.class
+com\taotao\manager\service\impl\ItemCatServiceImpl.class
